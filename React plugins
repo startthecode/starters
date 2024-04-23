@@ -1,0 +1,8 @@
+// React js
+1. dompurify - to prevent xss attack
+ 
+ 
+// node js
+1. helmet - set https headers to response to prevent attack
+2. express validator - midddleware to protect check in coming reqest data
+3. express rate limiter
