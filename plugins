@@ -5,4 +5,5 @@
 // node js
 1. helmet - set https headers to response to prevent attack
 2. express validator - midddleware to protect check in coming reqest data
-3. express rate limiter
+3. express rate limiter - Limit the incoming request based on time
+4. Express compression - send response in gzip
