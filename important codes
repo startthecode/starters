@@ -1,0 +1,17 @@
+module.exports = {
+  darkMode: ["class", ":global(.dark)"], 🛑🛑 use this line to use dark mode on click in taailwind
+  content: ["./src/**/*.{html,js,jsx}"],
+  theme: {
+    
+    extend: {
+      
+      colors: {
+        blue: "#050d2d",
+        "sky-blue": "#0075ff",
+        "dark-grey": "#1a1f37",
+        "light-grey": "#657189",
+      },
+    },
+  },
+  plugins: [],
+};
