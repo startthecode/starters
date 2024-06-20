@@ -1,1 +1,2 @@
 
+ npm i js-cookie@latest react-router-dom@latest jsonwebtoken@latest react-redux@latest @reduxjs/toolkit@latest axios@latest @tanstack/react-query@latest
